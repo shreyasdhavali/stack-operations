@@ -1,3 +1,4 @@
+//Stack simply means a LIFO lists means last inputed value will be first outputed
 #include<iostream>
 #define capacity 100
 using namespace std;
